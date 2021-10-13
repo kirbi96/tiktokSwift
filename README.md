@@ -1,2 +1,0 @@
-# tiktokSwift
-learn swift 
